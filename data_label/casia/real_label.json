@@ -1,0 +1,3982 @@
+[
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/10_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/11_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/12_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/13_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_325_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_350_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_375_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_400_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_425_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_450_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_475_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/14_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/15_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/16_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/17_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/18_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/19_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/1_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/20_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/21_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/22_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/23_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/24_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/25_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/26_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/27_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/28_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/29_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/2_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/30_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/3_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/4_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/5_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/6_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/7_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/8_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/test/9_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_10_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_325_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_11_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_325_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_350_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_375_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_12_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_13_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_14_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_15_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_16_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_17_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_18_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_19_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_1_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_20_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_325_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_350_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_2_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_3_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_4_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_5_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_225_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_250_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_275_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_300_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_325_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_350_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_375_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_6_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_7_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_8_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_1.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_175_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_200_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_2.avi_75_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_HR_1.avi_100_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_HR_1.avi_125_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_HR_1.avi_150_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_HR_1.avi_25_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_HR_1.avi_50_real.jpg",
+        "photo_label": 1
+    },
+    {
+        "photo_path": "/kaggle/input/notebooks/vuminh10/btl-h-c-m-y-ti-n-x-l-d-li-u/BTL-IT3190/data/casia/train/cropped_9_HR_1.avi_75_real.jpg",
+        "photo_label": 1
+    }
+]
