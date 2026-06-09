@@ -49,11 +49,15 @@ def eval(valid_dataloader, model, norm_flag):
         # compute loss and acc for every video
         avg_single_video_output = sum(output_dict_tmp[key]) / len(output_dict_tmp[key])
         avg_single_video_target = sum(target_dict_tmp[key]) / len(target_dict_tmp[key])
-        loss = criterion(avg_single_video_output, avg_single_video_target)
+        loss = criterion(avg_single_video_output, avg_single_video_target.long())
         acc_valid = accuracy(avg_single_video_output, avg_single_video_target, topk=(1,))
         valid_losses.update(loss.item())
         valid_top1.update(acc_valid[0])
-    auc_score = roc_auc_score(label_list, prob_list)
+    
+    print("\n[DEBUG] Các nhãn thực tế đang có trong Test:", set([int(x) for x in label_list]))
+    print("[DEBUG] 5 Dự đoán đầu tiên của AI:", prob_list[:5])
+    auc_score = roc_auc_score([int(x) for x in label_list], prob_list)
+
     cur_EER_valid, threshold, _, _ = get_EER_states(prob_list, label_list)
     ACC_threshold = calculate_threshold(prob_list, label_list, threshold)
     cur_HTER_valid = get_HTER_at_thr(prob_list, label_list, threshold)

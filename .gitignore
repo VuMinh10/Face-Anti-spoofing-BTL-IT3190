@@ -1,0 +1,9 @@
+*.pth.tar
+
+save_results/
+*_checkpoint/
+logs/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
