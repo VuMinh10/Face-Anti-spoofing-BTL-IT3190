@@ -1,3 +1,10 @@
+
+Tải các trọng số ở https://drive.google.com/drive/folders/1gAoejbupKHlmbBkvMvmRSJB7TotuT6eM?usp=sharing
+Sau đó để vào BTL-IT3190\Demo_FAS\weights
+
+
+
+
 # SSDG
 The implementation of [**Single-Side Domain Generalization for Face Anti-Spoofing**](https://arxiv.org/abs/2004.14043).
 
