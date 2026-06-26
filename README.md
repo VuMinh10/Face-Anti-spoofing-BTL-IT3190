@@ -1,6 +1,6 @@
 
 Tải các trọng số ở https://drive.google.com/drive/folders/1gAoejbupKHlmbBkvMvmRSJB7TotuT6eM?usp=sharing
-Sau đó để vào BTL-IT3190\Demo_FAS\weights
+Sau đó để vào Face-Anti-spoofing-BTL-IT3190\Demo_FAS\weights
 
 
 
